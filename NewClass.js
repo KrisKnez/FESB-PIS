@@ -3,7 +3,7 @@
 class NewClass {
 
     constructor() {
-        console.log("NewClass initialized")
+        console.log("Neka druga promjena")
     }
 
     NovaMetoda() {
